@@ -1,0 +1,101 @@
+,Gender,Age Group ,Often_Use,Fav_Genres,Preference,Inaccurate_Rating,Rating,Prefered_Rating,Accuracy,Recommendations
+1,Male,31+,Rarely,"Sci-Fi & Fantasy, Sports, Comedies, Dramas",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,3,No complaints
+2,Male,26-30,Daily ,"Anime, Sci-Fi & Fantasy, Action & Adventure ",1-5 Star Rating ,1,Not Aplicable ,Not Aplicable ,4,It's good 
+3,Female ,16-20,Daily ,"Romantic, Anime, Classic",Thumbs Up & Down Rating,2,Not Aplicable ,Not Aplicable ,5,It's great 
+4,Female ,21-24,3-5 times a week,"Action & Adventure, Comedies",Thumbs Up & Down Rating,3,TV-14,TV-PG,5,More Comedies
+5,Male,21-25,3-5 times a week,"Romantic, Anime, Classic, Action & Adventure ",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,5,Recommendations are good 
+6,Female ,26-30,4-6 times a month,"Sci-fi & Fantasy, Comedies, Dramas",1-5 Star Rating ,4,TV-14,NC-17,3,No complaints
+7,Female ,26-30,4-6 times a month,"Sports, Children & Family, Dramas",1-5 Star Rating ,1,TV-G,PG-13,2,More options 
+8,Female ,16-21,Rarely,"Documentaries, Horror, Thriller, Comedies",Thumbs Up & Down Rating,3,NC-17,R,5,No complaints
+9,Male,21-24,3-5 times a week,"Action & Adventure, Comedies",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,3,"It is good, can't complain"
+10,Male,21-25,Rarely,"Action & Adventure, Comedies",Thumbs Up & Down Rating,5,TV-14,NC-17,2,More Action movies 
+11,Male,26-30,Rarely,"Sci-Fi & Fantasy, Horror",Thumbs Up & Down Rating,2,Not Aplicable ,Not Aplicable ,1,Giving more options to things I didn't already watch
+12,Male,26-30,Rarely,"Sports, Comedies",Thumbs Up & Down Rating,4,NC-17,TV-MA,3,No compains 
+13,Male,16-20,Daily ,"Anime, Sci-Fi & Fantasy, Action & Adventure ",Thumbs Up & Down Rating,2,TV-14,PG-13,4,It good 
+14,Female ,21-25,Daily ,"Comedies, Classic, Romantic, Sci-Fi & Fantasy, Horror",Thumbs Up & Down Rating,4,TV-14,PG-13,5,"Great shows, good recommendations"
+15,Female ,21-25,3-5 times a week,"Sci-Fi & Fantasy, Sports, Comedies, Dramas",1-5 Star Rating ,5,TV-14,NC-17,5,Perfect 
+16,Male,31+,3-5 times a week,"Anime, Sci-Fi & Fantasy, Action & Adventure ",1-5 Star Rating ,3,TV-14,PG-13,4,Good
+17,Male,26-30,4-6 times a month,"Romantic, Anime, Classic",1-5 Star Rating ,3,Not Aplicable ,Not Aplicable ,3,Good 
+18,Male,21-25,4-6 times a month,"Action & Adventure, Comedies",Thumbs Up & Down Rating,2,Not Aplicable ,Not Aplicable ,5,"Great shows, good recommendations"
+19,Female ,31+,Rarely,"Romantic, Anime, Classic, Action & Adventure ",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,5,More varities 
+20,Female ,26-30,3-5 times a week,"Sci-fi & Fantasy, Comedies, Dramas",Thumbs Up & Down Rating,5,PG-13,NC-17,3,It's alright 
+21,Female ,16-20,Rarely,"Sports, Children & Family, Dramas",Thumbs Up & Down Rating,5,PG-13,NC-17,2,Need more genres 
+22,Female ,21-24,Daily ,"Sci-fi & Fantasy, Comedies, Dramas",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,3,Nothin
+23,Female ,21-25,Rarely,"Sports, Children & Family, Dramas",1-5 Star Rating ,1,Not Aplicable ,Not Aplicable ,5,"It good, recommendations are good"
+24,Female ,26-30,Rarely,"Documentaries, Horror, Thriller, Comedies",1-5 Star Rating ,5,TV-14,NC-17,4,"Good, needs better ratings "
+25,Female ,26-30,Rarely,"Action & Adventure, Comedies",1-5 Star Rating ,5,PG-13,TV-G,2,It is good 
+26,Male,16-21,Rarely,"Sci-fi & Fantasy, Comedies, Dramas",1-5 Star Rating ,5,TV-14,TV-MA,3,"Netflix is a good place to watch shows, no complaining from me"
+27,Male,16-22,Daily ,"Sports, Children & Family, Dramas",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,4,Netflix ratings are good
+28,Female ,21-25,Daily ,"Documentaries, Horror, Thriller, Comedies",Thumbs Up & Down Rating,5,PG-13,TV-14,1,Needs to do better with recommending movies and shows 
+29,Male,31+,3-5 times a week,"Action & Adventure, Comedies",Thumbs Up & Down Rating,5,PG-13,TV-14,2,It needs to do better with regards to recommending 
+30,Male,16-20,3-5 times a week,"Action & Adventure, Comedies",Thumbs Up & Down Rating,3,TV-14,NC-17,3,Do netter recommending 
+31,Male,21-25,4-6 times a month,"Sci-Fi & Fantasy, Horror",Thumbs Up & Down Rating,3,TV-14,R,2,The kind of things they have at young ratings need to change
+32,Male,16-20,4-6 times a month,"Sports, Comedies",Thumbs Up & Down Rating,3,PG-13,TV-14,4,No compaints
+33,Female ,31+,Rarely,"Action & Adventure, Comedies",1-5 Star Rating ,3,TV-14,TV-PG,4,All good here
+34,Female ,16-20,3-5 times a week,"Action & Adventure, Comedies",Thumbs Up & Down Rating,2,TV-14,TV-PG,4,Recommendations are good 
+35,Female ,21-25,Daily ,"Comedies, Classic, Romantic, Sci-Fi & Fantasy, Horror",1-5 Star Rating ,4,TV-14,TV-PG,5,No complaints
+36,Female ,31+,Daily ,"Sci-Fi & Fantasy, Sports, Comedies, Dramas",1-5 Star Rating ,5,PG-13,TV-14,3,More options 
+37,Male,26-30,Daily ,"Anime, Sci-Fi & Fantasy, Action & Adventure ",Thumbs Up & Down Rating,5,PG-13,NC-17,4,No complaints
+38,Male,16-20,3-5 times a week,"Sci-fi & Fantasy, Comedies, Dramas",1-5 Star Rating ,5,TV-14,TV-G,2,"It is good, can't complain"
+39,Female ,16-21,4-6 times a month,"Sports, Children & Family, Dramas",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,1,More Action movies 
+40,Male,21-25,4-6 times a month,"Documentaries, Horror, Thriller, Comedies",1-5 Star Rating ,4,PG-13,TV-14,2,Giving more options to things I didn't already watch
+41,Male,26-30,3-5 times a week,"Documentaries, Horror, Thriller, Comedies",Thumbs Up & Down Rating,3,TV-14,NC-17,3,No compains 
+42,Female ,21-25,Rarely,"Romantic, Anime, Classic",1-5 Star Rating ,5,TV-14,NC-17,4,It good 
+43,Female ,21-26,Daily ,"Romantic, Anime, Classic",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,5,"Great shows, good recommendations"
+44,Male,21-27,Daily ,"Action & Adventure, Comedies",1-5 Star Rating ,2,Not Aplicable ,Not Aplicable ,4,Perfect 
+45,Male,21-28,3-5 times a week,"Action & Adventure, Comedies",1-5 Star Rating ,2,PG-13,TV-14,3,Good
+46,Female ,21-29,4-6 times a month,"Documentaries, Horror, Thriller, Comedies",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,4,Good 
+47,Female ,21-30,4-6 times a month,Comedies,Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,2,"Great shows, good recommendations"
+48,Female ,21-25,Rarely,"Comedies, Classic, Romantic, Sci-Fi & Fantasy, Horror",Thumbs Up & Down Rating,3,TV-14,NC-17,3,More varities 
+49,Female ,26-30,Daily ,"Sci-Fi & Fantasy, Sports, Comedies, Dramas",Thumbs Up & Down Rating,4,PG-13,TV-PG,1,It's alright 
+50,Male,16-20,Daily ,"Anime, Sci-Fi & Fantasy, Action & Adventure ",1-5 Star Rating ,5,TV-14,TV-MA,5,Need more genres 
+51,Male,16-20,Daily ,"Sci-fi & Fantasy, Comedies, Dramas",1-5 Star Rating ,2,Not Aplicable ,Not Aplicable ,4,.
+52,Male,16-20,3-5 times a week,"Sports, Children & Family, Dramas",Thumbs Up & Down Rating,5,TV-14,NC-17,1,Terrible. Can recommend better things 
+53,Male,16-20,3-5 times a week,"Drama, Romantic",Thumbs Up & Down Rating,4,PG-13,TV-G,4,Good
+54,Male,21-25,Rarely,Sports,Thumbs Up & Down Rating,5,TV-14,PG-13,3,…
+55,Female ,31+,Daily ,"Comedies, Classic, Romantic, Sci-Fi & Fantasy, Horror",1-5 Star Rating ,4,TV-14,TV-MA,5,Very great service 
+56,Male,21-25,4-6 times a month,"Sci-Fi & Fantasy, Sports, Comedies, Dramas",1-5 Star Rating ,5,PG-13,TV-G,4,It's alright for now 
+57,Male,21-25,3-5 times a week,"Anime, Sci-Fi & Fantasy, Action & Adventure ",Thumbs Up & Down Rating,2,TV-14,TV-G,3,Can't complain about it 
+58,Male,16-20,4-6 times a month,"Documentaries, Horror, Thriller, Comedies",Thumbs Up & Down Rating,4,TV-14,TV-MA,4,Giving more options to things I didn't already watch
+59,Female ,26-30,Daily ,"Action & Adventure, Comedies",Thumbs Up & Down Rating,2,TV-14,NC-17,5,No compains 
+60,Female ,26-30,Rarely,"Action & Adventure, Comedies",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,5,It good 
+61,Female ,26-30,Daily ,"Romantic, Comedies",Thumbs Up & Down Rating,4,TV-14,TV-MA,4,"Great shows, good recommendations"
+62,Female ,31+,Daily ,"Sci-fi & Fantasy, Comedies, Dramas",1-5 Star Rating ,4,TV-14,TV-MA,3,Perfect 
+63,Male,26-30,3-5 times a week,"Sports, Children & Family, Dramas",Thumbs Up & Down Rating,5,PG-13,NC-17,4,Good
+64,Female ,31+,3-5 times a week,"Dramas, Romantic",1-5 Star Rating ,5,TV-14,PG-13,3,Good 
+65,Male,31+,4-6 times a month,"Sports, Action & Adventure",1-5 Star Rating ,5,TV-14,PG-13,1,Terrible recommendations. Same thing over and over
+66,Female ,31+,4-6 times a month,"Action & Adventure, Comedies",Thumbs Up & Down Rating,5,TV-14,NC-17,3,More varities 
+67,Male,16-20,Rarely,"Action & Adventure, Comedies",Thumbs Up & Down Rating,5,PG-13,TV-G,2,It's alright 
+68,Female ,16-20,3-5 times a week,"Romantic, Comedies, Drama",Thumbs Up & Down Rating,5,PG-13,TV-PG,4,Need more genres 
+69,Female ,16-20,Rarely,"Action & Adventure, Comedies",Thumbs Up & Down Rating,3,PG-13,NC-17,5,Nothing here from me 
+70,Female ,16-20,Rarely,"Action & Adventure, Comedies",1-5 Star Rating ,1,Not Aplicable ,Not Aplicable ,3,"It good, recommendations are good"
+71,Male,31+,Rarely,"Documentaries, Horror, Thriller, Comedies",1-5 Star Rating ,1,Not Aplicable ,Not Aplicable ,2,"Good, needs better ratings "
+72,Female ,31+,Daily ,"Documentaries, Horror, Thriller, Comedies",Thumbs Up & Down Rating,2,Not Aplicable ,Not Aplicable ,4,It is good 
+73,Female ,31+,Daily ,"Horror, Documentaries ",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,4,"Netflix is a good place to watch shows, no complaining from me"
+74,Male,21-25,Daily ,"Action & Adventure, Comedies",Thumbs Up & Down Rating,4,TV-14,TV-MA,5,.
+75,Female ,21-25,Daily ,"Action & Adventure, Comedies",1-5 Star Rating ,5,TV-14,NC-17,3,Better ratings for movies and shows 
+76,Female ,21-25,Daily ,"Sci-fi & Fantasy, Comedies, Dramas",1-5 Star Rating ,2,PG-13,NC-17,5,All good with everything 
+77,Female ,31+,3-5 times a week,"Sports, Children & Family, Dramas",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,1,Get better recommendations 
+78,Male,26-30,3-5 times a week,Documentaries,1-5 Star Rating ,4,TV-G,TV-14,4,.
+79,Male,16-20,4-6 times a month,"Comedies, Classic, Romantic, Sci-Fi & Fantasy, Horror",1-5 Star Rating ,3,TV-G,TV-13,5,"No, nothing needs to change really. Just some adjustments to their ratings "
+80,Female ,16-21,4-6 times a month,"Sci-Fi & Fantasy, Sports, Comedies, Dramas",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,1,"Shows me the same movies I already watch, do better "
+81,Male,21-25,Daily ,"Anime, Sci-Fi & Fantasy, Action & Adventure ",Thumbs Up & Down Rating,5,TV-14,NC-17,3,.
+82,Female ,26-30,Daily ,"Documentaries, Romance",1-5 Star Rating ,5,NC-17,R,4,Nothing to complain about really
+83,Female ,26-30,Rarely,Romance ,1-5 Star Rating ,5,NC-17,R,2,Ratings are off
+84,Male,21-25,Daily ,"Action & Adventure, Comedies",Thumbs Up & Down Rating,5,NC-17,R,4,More Adventure movies 
+85,Male,21-26,Daily ,"Action & Adventure, Comedies",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,3,Nothing 
+86,Female ,21-25,3-5 times a week,"Horror, Documentaries ",1-5 Star Rating ,3,TV-14,NC-17,5,Nothing 
+87,Male,16-20,3-5 times a week,Comedies,Thumbs Up & Down Rating,4,TV-14,TV-G,4,Good 
+88,Female ,16-20,4-6 times a month,Romance ,1-5 Star Rating ,4,TV-14,PG-13,3,It can have more shows and movies to watch
+89,Female ,16-21,4-6 times a month,"Action & Adventure, Comedies",1-5 Star Rating ,1,Not Aplicable ,Not Aplicable ,3,Nothing really
+90,Male,21-25,Rarely,"Action & Adventure, Comedies",Thumbs Up & Down Rating,2,Not Aplicable ,Not Aplicable ,2,Bring back the shows they took off
+91,Male,31+,3-5 times a week,"Horror, Documentaries ",Thumbs Up & Down Rating,3,NC-17,R,2,Do better with recommendations 
+92,Male,31+,Rarely,"Horror, Documentaries ",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,5,"Good, could be cheaper "
+93,Female ,31+,4-6 times a month,"Action & Adventure, Comedies",Thumbs Up & Down Rating,2,TV-14,NC-17,5,Perfect every time 
+94,Male,26-30,4-6 times a month,"Action & Adventure, Comedies",1-5 Star Rating ,1,Not Aplicable ,Not Aplicable ,5,Very good 
+95,Female ,16-20,3-5 times a week,"Comedies, Romance",1-5 Star Rating ,3,Not Aplicable ,Not Aplicable ,5,Good
+96,Male,16-21,3-5 times a week,"Anime, Action & Adventure ",Thumbs Up & Down Rating,1,Not Aplicable ,Not Aplicable ,4,A wider variety of movies and shows 
+97,Female ,21-25,Daily ,"Anime, Sci-Fi & Fantasy",Thumbs Up & Down Rating,3,NC-17,R,5,Would like more genres 
+98,Female ,26-30,Daily ,"Sci-fi & Fantasy, Comedies, Dramas",Thumbs Up & Down Rating,4,NC-17,TV-MA,4,Everything is alright 
+99,Male,31+,Rarely,"Sports, Children & Family, Dramas",1-5 Star Rating ,5,NC-17,TV-MA,3,Nothing really
+100,Male,31+,3-5 times a week,"Documentaries, Horror, Thriller, Comedies",1-5 Star Rating ,5,NC-17,TV-MA,4,Ratings are off
