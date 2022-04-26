@@ -12,11 +12,11 @@ Our Group Members Include:
 
 Each Member Contributions were Inclusive of : 
 
-Dataset 1 - Visualization and Modeling done by Celeste and Videsh 
+Dataset 1(NetflixShows) - Visualization and Modeling done by Celeste and Videsh 
 
-Dataset 2 - Visualization and Modeling done by Ricky, Celeste and Videsh
+Dataset 2(netflixData) - Visualization and Modeling done by Ricky, Celeste and Videsh
 
-Dataset 3 - Visualization and Modeling done by Christine, Ricky and Celeste 
+Dataset 3(LocalDataset) - Visualization and Modeling done by Christine, Ricky and Celeste 
 
 Questionnaire done by Christine
 
